@@ -1,1 +1,1 @@
-# Prediction-of-RUL-of-X-Ray-tube-
+# Prediction of RUL of X-Ray tube
